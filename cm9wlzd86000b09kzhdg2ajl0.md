@@ -5,8 +5,8 @@ seoDescription: "Learn to automate Azure cost optimization using Python, Terrafo
 datePublished: Fri Apr 25 2025 09:48:10 GMT+0000 (Coordinated Universal Time)
 cuid: cm9wlzd86000b09kzhdg2ajl0
 slug: a-guide-to-automating-cost-savings-on-azure-with-python-terraform-and-azure-devops
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1745580910931/ad0db539-f2b7-49a4-ab0a-817f7ea49549.png
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1745580811780/00f15042-0875-4b2d-bd8c-c6cb73423846.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1748116644506/2331a5bf-4b38-4d9d-ad86-776d3dcde23f.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1748116683722/b6ca7de4-f6a0-404f-af8e-f1e51932bfda.png
 tags: python, azure, terraform
 
 ---
